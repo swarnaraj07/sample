@@ -10,6 +10,6 @@ class test{
 		console.log(this.num1-this.num2);
 	}
 }
-let ref = new test(2,4);
+let ref = new test(2,7);
 ref.add();
 ref.sub();
